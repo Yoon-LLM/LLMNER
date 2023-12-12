@@ -1,0 +1,1 @@
+python /home/ubuntu/LLM-NER/make_report.py --test_data_path data/testing-PHI-Gold-fixed --output_path output/ --model_path ner
